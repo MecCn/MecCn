@@ -10,20 +10,12 @@
 
 Sou um entusiasta apaixonado por tecnologia e desenvolvimento de software, atualmente cursando Análise e Desenvolvimento de Sistemas. Minha jornada inclui cursos online de lógica de programação, introdução a Python, C, C++, e Java, demonstrando meu comprometimento com a aprendizagem constante.
 
-### 🔧 Transição de Carreira:
-
-Anteriormente atuava como mecânico de carro, onde desenvolvi habilidades sólidas em resolução de problemas e trabalho em equipe. A transição para a área de tecnologia é um desafio que abraço com entusiasmo, buscando expandir meu horizonte de conhecimento.
-
 ### 💡 Flexibilidade e Adaptação:
 
 Minha experiência como mecânico me ensinou a ser flexível e ágil na resolução de problemas. Essa mentalidade é transferida para meu aprendizado em TI, onde busco constantemente desafios que ampliem meu conhecimento e habilidades.
 
 ### Habilidades:
 
-Lógica de Programação
-Python
-C, C++
-Java (em desenvolvimento)
 Resolução de Problemas
 Trabalho em Equipe
 Projetos Pessoais:
