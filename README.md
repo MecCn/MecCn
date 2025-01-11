@@ -2,7 +2,7 @@
 
 ## 🎓 Aluno de Análise e Desenvolvimento de Sistemas
 
-## 📚 2º Período | Faculdade Anhanguera (Semi-Presencial)
+## 📚 4º Período | Faculdade Anhanguera (Semi-Presencial)
 
 ### 🚀 Objetivo Profissional:
 
